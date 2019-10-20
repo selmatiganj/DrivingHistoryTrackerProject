@@ -1,0 +1,12 @@
+Driver Dan
+Driver Lauren
+Driver Kumi
+Driver Ben
+Driver Jason
+Driver Bob
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Trip Lauren 12:01 13:16 42.0
+Trip Ben 07:15 07:45 17.3
+Trip Ben 06:12 06:32 21.8
+Trip Jason 12:01 13:16 42.0

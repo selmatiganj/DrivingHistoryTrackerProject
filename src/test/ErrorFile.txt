@@ -1,0 +1,14 @@
+Driver Bob
+Driver Lauren
+Driver Ben
+Test Error Driver
+Driver Lara
+Driver Error Test
+
+Trip Bob 07:15 07:45 17.3
+Trip Bob 06:12 06:32 21.8
+Trip Lauren 12:01 13:16 42.0
+Trip Lara 07:15 07:45 30
+Trip Lara 9:50 10:50 60
+Trip Error
+Error Trip 9:50 10:50 60
