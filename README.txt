@@ -40,11 +40,12 @@ Assumptions:
 			"Error processing input data. Invalid time."	
 	For cases when error was found as line of file is processed, line with error will be skipped, and
 	processing will continue.
+
 Input/Output: 
 	To run program from command line:
 	java -jar DrivingHistory.jar <dataFile.txt>
 	Example:
-	>java -jar DrivingHistory.jar DrivingHistoryData.txt
+	>java -jar DrivingHistory.jar SampleData.txt
 	Lauren : 42 miles @ 34 mph
 	Dan : 39 miles @ 47 mph
 	Kumi : 0 miles
